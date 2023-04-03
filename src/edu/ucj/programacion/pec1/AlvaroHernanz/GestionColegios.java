@@ -1,5 +1,5 @@
 package edu.ucj.programacion.pec1.AlvaroHernanz;
-
+// github https://github.com/Alvarggg/programacion2023
 public class GestionColegios {
 
 	public static void main(String[] args) {
@@ -18,3 +18,4 @@ public class GestionColegios {
 	}
 }
 
+ 
