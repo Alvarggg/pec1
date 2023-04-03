@@ -1,5 +1,5 @@
 package edu.ucj.programacion.pec1.AlvaroHernanz;
-// github https://github.com/Alvarggg/prog2023/tree/master/src/edu/ucj/programacion/pec1/AlvaroHernanz
+// github https://github.com/Alvarggg/pec1/tree/master/src/edu/ucj/programacion/pec1/AlvaroHernanz
 public class GestionColegios {
 
 	public static void main(String[] args) {
